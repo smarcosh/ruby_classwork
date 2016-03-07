@@ -1,3 +1,6 @@
+# Create a program that will shuffle a deck of cards and assign a number of players two cards. 
+# Make sure to ask the user for the number of players who are playing.
+
 deck_of_cards = ['a1', 'a2', 'a3', 'b1', 'b2', 'b3']
 
 puts 'How many players are playing?'
